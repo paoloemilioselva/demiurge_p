@@ -41,3 +41,7 @@ NOTE
 ++++
 
 If you have a full version 0.0.1 or greater, you can update to latest from the app itself.
+
+There is a high chance that you might have to update twice, just in case.
+
+After an update, you might want to reset your settings (R key).
