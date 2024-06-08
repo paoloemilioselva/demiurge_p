@@ -3,6 +3,8 @@ demiurge
 
 First beta version for testing interaction.
 
+Launch with launcher.exe
+
 Drag&drop usd files in the viewer, it will auto-frame on the scene-bounds.
 
 Navigation
@@ -35,13 +37,11 @@ Available delegates
 
 Aside of GL(Pixar's Storm) and Embree(Pixar's example), there are 2 custom delegates BadGL and Lighthouse2 for testing if needed.
 
-To use Prman, please, install it from the web. Compatible with version 25 as per launcher.bat renderman paths.
+To use Prman, please, install it from the web. Compatible with version 25 in default installation path.
 
 NOTE
 ++++
 
-If you have a full version 0.0.1 or greater, you can update to latest from the app itself.
+If you have a full version 0.0.2 or greater, you can update to latest from the app itself.
 
-There is a high chance that you might have to update twice, just in case.
-
-After an update, you might want to reset your settings (R key).
+After an update, it is good practice to reset your settings (R key).
